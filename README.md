@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManojChandra
 - 👀 I’m interested in working in the field of Big Data, Data Science/Analytics and Machine learning in any engineering discipline.
-- 🌱 I’m currently working on a project titled "Transfer Learning in Process Engineering".
-- 📫 How to reach me -  mmanojchandra@gmail.com
+- 🌱 I’m currently working on a project titled "Transfer Learning in Process Engineering" predicting corrosion rates using R and Python programming
+- 📫 How to reach me -  manoj.machavolu@mail.utoronto.ca
 - www.linkedin.com/in/manoj-chandra-m-333280200
 
 
