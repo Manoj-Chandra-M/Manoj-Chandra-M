@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManojChandra
 - 👀 I’m interested in working in the field of Big Data, Data Engineering, Data Science/Analytics and Machine learning.
-- 🌱 I’m currently working in Scotiabank as a Data Engineer.
+- 🌱 I worked in Scotiabank as a Data Engineer.
 - 📫 How to reach me - mmanojchandra@gmail.com
 - www.linkedin.com/in/manoj-chandra-m-333280200
 
